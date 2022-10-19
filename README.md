@@ -1,7 +1,7 @@
 
 
 <h3>Olá, tudo bem?</h3>
-<p>Sou o Gil, Formado em Análise e Desenvolvimento de Sistemas, iniciando no mundo da programação, possuo alguns pequenos projetos Front-End desenvolvidos com HTML / CSS / Javascript / Bootstrap para fins didáticos. Atualmente focado nos estudos em desenvolvimento Java, utilizando banco de dados PostgreSQL e Spring.</p>
+<p>Sou o Gil, Formado em Análise e Desenvolvimento de Sistemas, praticando os conceitos, possuo alguns pequenos projetos Front-End desenvolvidos com HTML / CSS / Javascript / Bootstrap. Atualmente focado nos estudos em desenvolvimento Java, utilizando banco de dados PostgreSQL e Spring.</p>
 </p><br/>
 
 <div align="center">

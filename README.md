@@ -1,7 +1,6 @@
 
 
-<h3>Olá, tudo bem?</h3>
-<p>Sou o Gil, Formado em Análise e Desenvolvimento de Sistemas, praticando os conceitos, possuo alguns pequenos projetos Front-End desenvolvidos com HTML / CSS / Javascript / Bootstrap. Atualmente focado nos estudos em desenvolvimento Java, utilizando banco de dados PostgreSQL e Spring.</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas, Desenvolvedor, estudando e praticando os conceitos na linguagem Java, possuo alguns projetos Front-End para fixação de conhecimentos. Atualmente focado em desenvolvimento de aplicações Java, utilizando banco de dados PostgreSQL e Framework Spring.</p>
 </p><br/>
 
 <div align="center">
@@ -9,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmoura82&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmoura82&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
 
 <div style="display: inline_block"><br>
  
@@ -31,7 +32,7 @@
   <a href="https://api.whatsapp.com/send?phone=5521974225608&text=Entre%20Em%20Contato"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" /></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
 

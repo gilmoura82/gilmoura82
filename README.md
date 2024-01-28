@@ -1,6 +1,7 @@
 
 
-<p>Formado em Análise e Desenvolvimento de Sistemas, Desenvolvedor, estudando e praticando os conceitos na linguagem Java, possuo alguns projetos Front-End para fixação de conhecimentos. Atualmente focado em desenvolvimento de aplicações Java, utilizando banco de dados PostgreSQL e Framework Spring.</p>
+<p>Formado em Análise e Desenvolvimento de Sistemas, Desenvolvedor, estudando e praticando os conceitos na linguagem Java, possuo alguns projetos desenvolvidos na camada Front-End para prática e fixação de conhecimentos. 
+Atualmente focado em desenvolvimento Back-End Java, utilizando banco de dados PostgreSQL e Framework Spring.</p>
 </p><br/>
 
 <div align="center">

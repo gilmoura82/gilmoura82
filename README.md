@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, me chamo Gil Moura</h1>
-<h3 align="center">Em migração de carreira para área de Desenvolvimento de Sistemas</h3>
+<h3 align="center">Back-End Developer</h3>
 
 <p>Formado em Análise e Desenvolvimento de Sistemas, Desenvolvedor, estudando e praticando os conceitos e melhores práticas na linguagem Java, possuo também alguns projetos desenvolvidos na camada Front-End para prática e fixação de conhecimentos. 
 Atualmente focado em desenvolvimento Back-End Java, utilizando banco de dados PostgreSQL e Framework Spring.</p>

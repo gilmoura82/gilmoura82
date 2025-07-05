@@ -3,7 +3,7 @@
 <h3 align="center">Back-End Developer</h3>
 
 <p>Formado em Análise e Desenvolvimento de Sistemas, Desenvolvedor, estudando e praticando os conceitos e melhores práticas na linguagem Java, possuo também alguns projetos desenvolvidos na camada Front-End para prática e fixação de conhecimentos. 
-Atualmente focado em desenvolvimento Back-End Java, utilizando banco de dados PostgreSQL e Framework Spring.</p>
+Atualmente focado em desenvolvimento Back-End, gosto de utilizar MySQL e PostgreSQL.</p>
 </p><br/>
 
 <div align="center">
